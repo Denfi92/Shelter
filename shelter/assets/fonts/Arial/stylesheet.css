@@ -1,0 +1,14 @@
+@font-face {
+	font-family: 'Arial';
+	src: local('Arial Italic'), url('Arial-ItalicMT.woff') format('woff');
+	font-weight: normal;
+	font-style: italic;
+}
+
+@font-face {
+	font-family: 'Arial';
+	src: local('Arial'), local('ArialMT'),
+		url('ArialMT.woff') format('woff');
+	font-weight: normal;
+	font-style: normal;
+}
